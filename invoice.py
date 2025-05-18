@@ -34,7 +34,7 @@ import urllib.parse
 import openpyxl
 from requests_html import HTMLSession
 
-def icr_run(image_path):
+def ocr_run(image_path):
     # print("sagen")
     subscription_key = ""
   
